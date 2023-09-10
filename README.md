@@ -5,6 +5,6 @@ Trained a neural network using the state-of-the-art Xception architecture, achie
 # Sample Output
 
 
-![alt text]((https://github.com/gaganchapa/Cyclone_Intensity_Prediction/blob/main/output.png)
+![alt text](https://github.com/gaganchapa/Cyclone_Intensity_Prediction/blob/main/output.png)
 
 
